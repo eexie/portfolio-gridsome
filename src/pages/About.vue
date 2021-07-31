@@ -13,7 +13,7 @@
         <p>Outside of work, you’ll find me rock climbing, attending live events, or capturing the outdoors on film.</p>
       </div>
 
-      <!-<form class="contact-form" name="contact">
+      <!--<form class="contact-form" name="contact">
 
         <div class="sender-info">
           <div>
@@ -33,7 +33,7 @@
 
         <button class="button">Submit form</button>
 
-      </form>->
+      </form>-->
 
     </div>
   </Layout>
