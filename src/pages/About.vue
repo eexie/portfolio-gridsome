@@ -3,11 +3,17 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Say hi!</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <h1 class="contact-title">Hi! I'm Emma</h1>
+        <p>I'm a product manager / product designer with a passion for connecting and empowering humans. 
+        A generalist at heart, I got into product design because I realized there was a job where I could 
+        pursue my interests in art, business, psychology, and engineering. I thrive in ambiguous problem spaces, 
+        and I get a thrill out of designing simple solutions for complex human needs.
+        </p>
+
+        <p>Outside of work, you’ll find me rock climbing, attending live events, or capturing the outdoors on film.</p>
       </div>
 
-      <form class="contact-form" name="contact">
+      <!-<form class="contact-form" name="contact">
 
         <div class="sender-info">
           <div>
@@ -27,7 +33,7 @@
 
         <button class="button">Submit form</button>
 
-      </form>
+      </form>->
 
     </div>
   </Layout>
