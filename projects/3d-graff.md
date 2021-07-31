@@ -6,7 +6,7 @@ categories:
 - photography
 - yellow
 project_bg_color: ''
-project_fg_color: "#FDC70D"
+project_fg_color: ''
 
 ---
 ![](/uploads/ian-dooley-281897-unsplash.jpg)
