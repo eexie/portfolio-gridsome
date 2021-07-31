@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/ian-dooley-281897-unsplash.jpg"
-title: Ice Cream
+title: Making the experience of exploring and making use of industrial data easier
 date: 2019-01-04
 categories:
 - photography
