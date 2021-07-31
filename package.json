@@ -2,8 +2,6 @@
   "name": "itsnwa.com",
   "private": true,
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "build": "gridsome build",
     "develop": "gridsome develop",
     "explore": "gridsome explore"
