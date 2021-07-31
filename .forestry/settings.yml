@@ -14,7 +14,6 @@ sections:
 - type: document
   path: https://eexie.github.io/resume/resume_.pdf
   label: Resume
-  match: "**/*"
   read_only: true
 - type: directory
   path: journal
