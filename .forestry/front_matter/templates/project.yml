@@ -6,6 +6,15 @@ fields:
   name: thumbnail
   label: Thumbnail
   description: This will only show up on the front page
+- name: overview
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Overview
 - type: text
   name: title
   label: Title
@@ -30,11 +39,6 @@ fields:
   config:
     color_format: Hex
   label: Background color
-- type: color
-  name: project_fg_color
-  config:
-    color_format: Hex
-  label: Foreground color
 pages:
 - projects/3d-graff.md
 - projects/chelsea-landmark.md
