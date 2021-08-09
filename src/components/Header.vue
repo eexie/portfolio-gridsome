@@ -11,7 +11,6 @@
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link" to="/">Work</g-link>
                 <g-link class="nav__link" to="/about">About</g-link>
                 <g-link class="nav__link" to="https://www.figma.com/proto/TOrH5UHfJxbovU2WZP8yZf/Resume?node-id=1%3A2&scaling=min-zoom&page-id=127%3A92&starting-point-node-id=1%3A2">Resume</g-link>
                 <!--<g-link class="nav__link" to="/journal">Journal</g-link>
