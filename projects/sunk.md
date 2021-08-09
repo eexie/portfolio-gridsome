@@ -6,7 +6,7 @@ categories:
 - photography
 - blue
 project_bg_color: "#E4E4E4"
-project_fg_color: "#36B5EF"
+project_fg_color: "#007AB5"
 overview: ''
 
 ---
