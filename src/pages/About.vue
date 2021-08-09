@@ -2,7 +2,7 @@
   <Layout>
     <div class="container">
 
-      <div class="project-header">
+      <div class="contact-header">
         <h1 class="contact-title">Hi! I'm Emma</h1>
         <p>I'm a product manager / product designer with a passion for connecting and empowering humans. 
         A generalist at heart, I got into product design because I realized there was a job where I could 
