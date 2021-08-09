@@ -39,6 +39,12 @@ fields:
   config:
     color_format: Hex
   label: Background color
+- name: project_fg_color
+  type: color
+  config:
+    required: false
+    color_format: Hex
+  label: Accent color
 pages:
 - projects/3d-graff.md
 - projects/chelsea-landmark.md
