@@ -1,4 +1,5 @@
 <template>
+<!---
     <div>
         <div class="latest-journals-heading container">
         <span class="label">Latest and greatest</span>
@@ -11,6 +12,7 @@
         </div>
         </div>
     </div>
+--->
 </template>
 
 <script>
